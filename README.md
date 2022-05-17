@@ -2,6 +2,12 @@
 
 > A theme for VS Code, subtle background with blue accent.
 
+# Screenshots
+
+![Screenshot 1](images/subtle-blue-1.png)
+![Screenshot 2](images/subtle-blue-2.png)
+![Screenshot 3](images/subtle-blue-3.png)
+
 # Installation
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/)

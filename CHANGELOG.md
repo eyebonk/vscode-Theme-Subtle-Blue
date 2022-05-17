@@ -6,4 +6,21 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+## [1.0.0] - 2022-05-17
+
+### Added
+
+- Theme created
+
+## [1.0.1] - 2022-05-17
+
+### Added
+
+- Removed sidebar active border
+
+## [1.0.2] - 2022-05-17
+
+### Added
+
+- Terminal background color updated
+- link hover color updated

@@ -3,7 +3,7 @@
   "displayName": "Subtle Blue",
   "description": "A theme for VS Code, subtle background with blue accent",
   "publisher": "eyebonk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.67.0"
   },
@@ -14,6 +14,10 @@
     "VSCode",
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eyebonk/vscode-Theme-Subtle-Blue.git"
+  },
   "contributes": {
     "themes": [
       {
