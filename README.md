@@ -1,13 +1,13 @@
-# README
-## This is the README for your extension "subtle-blue"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Subtle blue accent Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+> A theme for VS Code, subtle background with blue accent.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Installation
 
-**Enjoy!**
+1. Install [Visual Studio Code](https://code.visualstudio.com/)
+2. Launch Visual Studio Code
+3. Choose **Extensions** from menu
+4. Search for `subtle-blue`
+5. Click **Install** to install it
+6. Click **Reload** to reload the Code
+7. File > Preferences > Color Theme > **subtle-blue**
