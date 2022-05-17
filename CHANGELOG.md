@@ -24,3 +24,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Terminal background color updated
 - link hover color updated
+
+## [1.0.3] - 2022-05-17
+
+### Added
+
+- Marketplace icon added
