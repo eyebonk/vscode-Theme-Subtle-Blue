@@ -43,3 +43,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Syntax slight colour increase of blue and green.
 - Comments swapped to darkgreen
+
+## [1.0.6] - 2022-05-18
+
+### Added
+
+- ActivityBar accent border to active items
