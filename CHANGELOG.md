@@ -30,3 +30,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 
 - Marketplace icon added
+
+## [1.0.4] - 2022-05-17
+
+### Added
+
+- Marketplace icon update
