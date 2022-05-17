@@ -36,3 +36,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 
 - Marketplace icon update
+
+## [1.0.5] - 2022-05-17
+
+### Added
+
+- Syntax slight colour increase of blue and green.
+- Comments swapped to darkgreen
