@@ -49,3 +49,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 
 - ActivityBar accent border to active items
+
+## [1.0.7] - 2022-05-19
+
+### Added
+
+- Icon uupdate
